@@ -1,1 +1,1 @@
-# coachtech-javaScriptTraning
+# coachtech JavaScript研修用
